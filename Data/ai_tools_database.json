@@ -1,0 +1,1271 @@
+{
+  "last_updated": "2026-02-01T14:21:02.292413",
+  "categories": [
+    {
+      "name": "AI Writing Generation",
+      "description": "Tools for AI Writing Generation",
+      "tools": [
+        {
+          "name": "ChatGPT",
+          "pricing": "Freemium",
+          "description": "Advanced AI writing assistant for various content types including blogs, emails, and creative writing.",
+          "steps": [
+            "Visit chat.openai.com",
+            "Create a free account",
+            "Type your writing prompt",
+            "Refine the output as needed"
+          ],
+          "video_tutorial": "1. AI Writing Generation/ChatGPT - Free.mp4",
+          "youtube_links": [],
+          "free_limits": "Free tier available with GPT-3.5; GPT-4 requires Plus subscription",
+          "ranking": 9.5,
+          "last_verified": "2025-01-15",
+          "has_tutorial_video": true
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "AI SEO Tools",
+      "description": "Tools for AI SEO Tools",
+      "tools": [
+        {
+          "name": "Semrush",
+          "pricing": "Paid",
+          "description": "All-in-one AI SEO platform for keyword research, content optimization, backlink analysis, and competitor tracking.",
+          "steps": [
+            "Visit semrush.com",
+            "Sign up for an account",
+            "Enter your domain or competitor URL",
+            "Use AI-driven SEO recommendations to optimize your site"
+          ],
+          "video_tutorial": "10. AI SEO Tools/Semrush - Paid.mp4",
+          "youtube_links": [],
+          "free_limits": "14-day free trial; limited free access with a Google account",
+          "ranking": 9.4,
+          "last_verified": "2025-01-12",
+          "has_tutorial_video": true
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "AI Social Media Management",
+      "description": "Tools for AI Social Media Management",
+      "tools": [
+        {
+          "name": "Buffer",
+          "pricing": "Free",
+          "description": "AI tool for AI Social Media Management",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "11. AI Social Media Management/Buffer - Free.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 8.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "AI Paraphrasing Tools",
+      "description": "Tools for AI Paraphrasing Tools",
+      "tools": [
+        {
+          "name": "Undetectable.ai",
+          "pricing": "Paid",
+          "description": "AI tool for AI Paraphrasing Tools",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "12. AI Paraphrasing Tools/Undetectable.ai - Paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "AI Voice Generation",
+      "description": "Tools for AI Voice Generation",
+      "tools": [
+        {
+          "name": "NaturalReader",
+          "pricing": "Free",
+          "description": "AI tool for AI Voice Generation",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "13. AI Voice Generation/NaturalReader - Free.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 8.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "AI Website Builders",
+      "description": "Tools for AI Website Builders",
+      "tools": [
+        {
+          "name": "10Web",
+          "pricing": "Paid",
+          "description": "AI tool for AI Website Builders",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "14. AI Website Builders/10Web - Paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "AI Summarization Tools",
+      "description": "Tools for AI Summarization Tools",
+      "tools": [
+        {
+          "name": "Resoomer",
+          "pricing": "Free",
+          "description": "AI tool for AI Summarization Tools",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "15. AI Summarization Tools/Resoomer - Free.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 8.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "AI Copywriting",
+      "description": "Tools for AI Copywriting",
+      "tools": [
+        {
+          "name": "Anyword",
+          "pricing": "Paid",
+          "description": "AI tool for AI Copywriting",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "16. AI Copywriting/Anyword - Paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "name": "AI Background Removal",
+      "description": "Tools for AI Background Removal",
+      "tools": [
+        {
+          "name": "Adobe Express",
+          "pricing": "Free",
+          "description": "AI tool for AI Background Removal",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "17. AI Background Removal/Adobe Express - Free.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 8.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "name": "AI Music Generation",
+      "description": "Tools for AI Music Generation",
+      "tools": [
+        {
+          "name": "Udio",
+          "pricing": "Paid",
+          "description": "AI tool for AI Music Generation",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "18. AI Music Generation/Udio - Paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "name": "AI Photo Editing",
+      "description": "Tools for AI Photo Editing",
+      "tools": [
+        {
+          "name": "Magic Studio",
+          "pricing": "Free",
+          "description": "AI tool for AI Photo Editing",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "19. AI Photo Editing/Magic Studio - Free.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 8.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "name": "AI Chatbots",
+      "description": "Tools for AI Chatbots",
+      "tools": [
+        {
+          "name": "IntercomFin",
+          "pricing": "Paid",
+          "description": "AI-powered chatbot platform designed for customer support and financial services communication.",
+          "steps": [
+            "Sign up at intercom.com",
+            "Set up your workspace",
+            "Configure the AI chatbot",
+            "Deploy on your website"
+          ],
+          "video_tutorial": "2. AI Chatbots/IntercomFin - Paid.mp4",
+          "youtube_links": [],
+          "free_limits": "14-day free trial available",
+          "ranking": 8.4,
+          "last_verified": "2025-01-10",
+          "has_tutorial_video": true
+        }
+      ],
+      "id": 12
+    },
+    {
+      "name": "AI Meeting Assistants",
+      "description": "Tools for AI Meeting Assistants",
+      "tools": [
+        {
+          "name": "Avoma",
+          "pricing": "Paid",
+          "description": "AI tool for AI Meeting Assistants",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "20. AI Meeting Assistants/Avoma - Paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "name": "AI Data Analysis",
+      "description": "Tools for AI Data Analysis",
+      "tools": [
+        {
+          "name": "Tableau AI",
+          "pricing": "Paid",
+          "description": "AI tool for AI Data Analysis",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "21. AI Data Analysis/Tableau AI - Paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        },
+        {
+          "name": "Tableau.ai",
+          "pricing": "Paid",
+          "description": "AI tool for AI Data Analysis",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "21. AI Data Analysis/Tableau.ai - Paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "name": "AI Translation",
+      "description": "Tools for AI Translation",
+      "tools": [
+        {
+          "name": "Google Translate",
+          "pricing": "Free",
+          "description": "AI tool for AI Translation",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "22. AI Translation/Google Translate - Free.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 8.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 15
+    },
+    {
+      "name": "AI Personal Assistant",
+      "description": "Tools for AI Personal Assistant",
+      "tools": [
+        {
+          "name": "Reclaim.ai",
+          "pricing": "Paid",
+          "description": "AI tool for AI Personal Assistant",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "23. AI Personal Assistant/Reclaim.ai - Paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "name": "AI Resume Screening",
+      "description": "Tools for AI Resume Screening",
+      "tools": [
+        {
+          "name": "Freshteam",
+          "pricing": "Free",
+          "description": "AI tool for AI Resume Screening",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "24. AI Resume Screening/Freshteam - Free.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 8.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "name": "AI Plagiarism Checkrs",
+      "description": "Tools for AI Plagiarism Checkrs",
+      "tools": [
+        {
+          "name": "Originality.ai",
+          "pricing": "Paid",
+          "description": "AI tool for AI Plagiarism Checkrs",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "25. AI Plagiarism Checkrs/Originality.ai - Paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 18
+    },
+    {
+      "name": "AI Logo Design",
+      "description": "Tools for AI Logo Design",
+      "tools": [
+        {
+          "name": "DesignEvo",
+          "pricing": "Free",
+          "description": "AI tool for AI Logo Design",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "26. AI Logo Design/DesignEvo - Free.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 8.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 19
+    },
+    {
+      "name": "AI Interior Design",
+      "description": "Tools for AI Interior Design",
+      "tools": [
+        {
+          "name": "Interior AI",
+          "pricing": "Paid",
+          "description": "AI tool for AI Interior Design",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "27. AI Interior Design/Interior AI - Paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 20
+    },
+    {
+      "name": "AI HR Assistants",
+      "description": "Tools for AI HR Assistants",
+      "tools": [
+        {
+          "name": "Bitrix24",
+          "pricing": "Free",
+          "description": "AI tool for AI HR Assistants",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "28. AI HR Assistants/Bitrix24 - Free.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 8.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 21
+    },
+    {
+      "name": "AI Customer Support",
+      "description": "Tools for AI Customer Support",
+      "tools": [
+        {
+          "name": "Gorgias",
+          "pricing": "Paid",
+          "description": "AI tool for AI Customer Support",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "29. AI Customer Support/Gorgias - Paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 22
+    },
+    {
+      "name": "AI Image Generation",
+      "description": "Tools for AI Image Generation",
+      "tools": [
+        {
+          "name": "Tensor.Art",
+          "pricing": "Freemium",
+          "description": "AI image generation platform with a wide range of models and styles for creative artwork.",
+          "steps": [
+            "Visit tensor.art",
+            "Create a free account",
+            "Choose a model or style",
+            "Enter your image prompt and generate"
+          ],
+          "video_tutorial": "3. AI Image Generation/Tensor.Art - Free.mp4",
+          "youtube_links": [],
+          "free_limits": "Free tier with daily generation limits",
+          "ranking": 8.6,
+          "last_verified": "2025-01-12",
+          "has_tutorial_video": true
+        }
+      ],
+      "id": 23
+    },
+    {
+      "name": "AI Code Debugging",
+      "description": "Tools for AI Code Debugging",
+      "tools": [
+        {
+          "name": "RubberDuck",
+          "pricing": "Free",
+          "description": "AI tool for AI Code Debugging",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "30. AI Code Debugging/RubberDuck - Free.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 8.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 24
+    },
+    {
+      "name": "AI UX-UI Design",
+      "description": "Tools for AI UX-UI Design",
+      "tools": [
+        {
+          "name": "31 Uizard",
+          "pricing": "Unknown",
+          "description": "AI tool for AI UX-UI Design",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "31. AI UX-UI Design/31 Uizard - paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 25
+    },
+    {
+      "name": "AI Avatar Creation",
+      "description": "Tools for AI Avatar Creation",
+      "tools": [
+        {
+          "name": "32 D-ID",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Avatar Creation",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "32. AI Avatar Creation/32 D-ID - paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 26
+    },
+    {
+      "name": "AI Sales Outreach",
+      "description": "Tools for AI Sales Outreach",
+      "tools": [
+        {
+          "name": "33 Outreach.io",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Sales Outreach",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "33. AI Sales Outreach/33 Outreach.io - paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 27
+    },
+    {
+      "name": "AI Market Research",
+      "description": "Tools for AI Market Research",
+      "tools": [
+        {
+          "name": "34 Google Trends",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Market Research",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "34. AI Market Research/34 Google Trends - free.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 28
+    },
+    {
+      "name": "AI Recruiting",
+      "description": "Tools for AI Recruiting",
+      "tools": [
+        {
+          "name": "35 LinkedIn Recruiter",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Recruiting",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "35. AI Recruiting/35 LinkedIn Recruiter - paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 29
+    },
+    {
+      "name": "AI Fashion Design",
+      "description": "Tools for AI Fashion Design",
+      "tools": [
+        {
+          "name": "36 NewArc.ai",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Fashion Design",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "36. AI Fashion Design/36 NewArc.ai - free.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 30
+    },
+    {
+      "name": "AI Speechwriting",
+      "description": "Tools for AI Speechwriting",
+      "tools": [
+        {
+          "name": "37 Speeko",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Speechwriting",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "37. AI Speechwriting/37 Speeko - paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 31
+    },
+    {
+      "name": "AI Podcast Show Notes",
+      "description": "Tools for AI Podcast Show Notes",
+      "tools": [
+        {
+          "name": "38 Podium",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Podcast Show Notes",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "38. AI Podcast Show Notes/38 Podium - free.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 32
+    },
+    {
+      "name": "AI Password Management",
+      "description": "Tools for AI Password Management",
+      "tools": [
+        {
+          "name": "39 1Password",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Password Management",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "39. AI Password Management/39 1Password - paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 33
+    },
+    {
+      "name": "AI Coding Assistant",
+      "description": "Tools for AI Coding Assistant",
+      "tools": [
+        {
+          "name": "BlackBox Ai",
+          "pricing": "Paid",
+          "description": "AI coding assistant that helps developers write, debug, and optimize code across multiple programming languages.",
+          "steps": [
+            "Visit blackbox.ai",
+            "Create an account",
+            "Install the VS Code extension or use the web interface",
+            "Start coding with AI suggestions"
+          ],
+          "video_tutorial": "4. AI Coding Assistant/BlackBox Ai - Paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Limited free usage; Pro plan for full features",
+          "ranking": 8.8,
+          "last_verified": "2025-01-14",
+          "has_tutorial_video": true
+        }
+      ],
+      "id": 34
+    },
+    {
+      "name": "AI Travel Planning",
+      "description": "Tools for AI Travel Planning",
+      "tools": [
+        {
+          "name": "40 Wonderplan",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Travel Planning",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "40. AI Travel Planning/40 Wonderplan - free.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 35
+    },
+    {
+      "name": "AI Mind Mapping",
+      "description": "Tools for AI Mind Mapping",
+      "tools": [
+        {
+          "name": "41 XMind AI",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Mind Mapping",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "41. AI Mind Mapping/41 XMind AI - paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 36
+    },
+    {
+      "name": "AI Grant Writing",
+      "description": "Tools for AI Grant Writing",
+      "tools": [
+        {
+          "name": "42 Instrumentl",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Grant Writing",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "42. AI Grant Writing/42 Instrumentl - paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 37
+    },
+    {
+      "name": "AI Legal Document Review",
+      "description": "Tools for AI Legal Document Review",
+      "tools": [
+        {
+          "name": "43 Amto AI",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Legal Document Review",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "43. AI Legal Document Review/43 Amto AI - free.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 38
+    },
+    {
+      "name": "AI Expense Management",
+      "description": "Tools for AI Expense Management",
+      "tools": [
+        {
+          "name": "44 Zoho Expense",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Expense Management",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "44. AI Expense Management/44 Zoho Expense - free.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 39
+    },
+    {
+      "name": "AI Fitness Trainers",
+      "description": "Tools for AI Fitness Trainers",
+      "tools": [
+        {
+          "name": "45 FitBod",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Fitness Trainers",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "45. AI Fitness Trainers/45 FitBod - paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 40
+    },
+    {
+      "name": "AI Meal Planning",
+      "description": "Tools for AI Meal Planning",
+      "tools": [
+        {
+          "name": "46 Cronometer",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Meal Planning",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "46. AI Meal Planning/46 Cronometer - free.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 41
+    },
+    {
+      "name": "AI Financial Advising",
+      "description": "Tools for AI Financial Advising",
+      "tools": [
+        {
+          "name": "47 Monarch Money",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Financial Advising",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "47. AI Financial Advising/47 Monarch Money - paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 42
+    },
+    {
+      "name": "AI Language Learning",
+      "description": "Tools for AI Language Learning",
+      "tools": [
+        {
+          "name": "48 Memrise",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Language Learning",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "48. AI Language Learning/48 Memrise - free.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 43
+    },
+    {
+      "name": "AI Project Management_",
+      "description": "Tools for AI Project Management_",
+      "tools": [
+        {
+          "name": "49 Monday.com",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Project Management_",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "49. AI Project Management_/49 Monday.com - paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 44
+    },
+    {
+      "name": "AI Transcription",
+      "description": "Tools for AI Transcription",
+      "tools": [
+        {
+          "name": "Otter.ai",
+          "pricing": "Paid",
+          "description": "AI-powered meeting transcription tool that automatically captures and summarizes conversations in real time.",
+          "steps": [
+            "Visit otter.ai",
+            "Sign up for an account",
+            "Connect your calendar or start a meeting",
+            "Let Otter transcribe automatically"
+          ],
+          "video_tutorial": "5. AI Transcription/Otter.ai - Paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Basic plan with 300 minutes/month free",
+          "ranking": 9.0,
+          "last_verified": "2025-01-11",
+          "has_tutorial_video": true
+        }
+      ],
+      "id": 45
+    },
+    {
+      "name": "AI Sentiment Analysis_",
+      "description": "Tools for AI Sentiment Analysis_",
+      "tools": [
+        {
+          "name": "50 MonkeyLearn",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Sentiment Analysis_",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "50. AI Sentiment Analysis_/50 MonkeyLearn - free.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 46
+    },
+    {
+      "name": "AI Voice Cloning",
+      "description": "Tools for AI Voice Cloning",
+      "tools": [
+        {
+          "name": "51 Respeecher",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Voice Cloning",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "51. AI Voice Cloning/51 Respeecher - paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 47
+    },
+    {
+      "name": "AI Video Editing_",
+      "description": "Tools for AI Video Editing_",
+      "tools": [
+        {
+          "name": "52 OpusClip",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Video Editing_",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "52. AI Video Editing_/52 OpusClip - free.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 48
+    },
+    {
+      "name": "AI Thumbnail Generation_",
+      "description": "Tools for AI Thumbnail Generation_",
+      "tools": [
+        {
+          "name": "53 Appy Pie",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Thumbnail Generation_",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "53. AI Thumbnail Generation_/53 Appy Pie - paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 49
+    },
+    {
+      "name": "AI Academic Writing_",
+      "description": "Tools for AI Academic Writing_",
+      "tools": [
+        {
+          "name": "54 Consensus",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Academic Writing_",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "54. AI Academic Writing_/54 Consensus - free.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 50
+    },
+    {
+      "name": "AI Songwriting_",
+      "description": "Tools for AI Songwriting_",
+      "tools": [
+        {
+          "name": "55 Soundful",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Songwriting_",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "55. AI Songwriting_/55 Soundful - paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 51
+    },
+    {
+      "name": "AI Story Writing_",
+      "description": "Tools for AI Story Writing_",
+      "tools": [
+        {
+          "name": "56 Novel AI",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Story Writing_",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "56. AI Story Writing_/56 Novel AI - paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 52
+    },
+    {
+      "name": "AI Brand Kit Generators_",
+      "description": "Tools for AI Brand Kit Generators_",
+      "tools": [
+        {
+          "name": "57 Adobe color",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Brand Kit Generators_",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "57. AI Brand Kit Generators_/57 Adobe color - free.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 53
+    },
+    {
+      "name": "AI Lead Generation_",
+      "description": "Tools for AI Lead Generation_",
+      "tools": [
+        {
+          "name": "58 GetProspect",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Lead Generation_",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "58. AI Lead Generation_/58 GetProspect - free.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 54
+    },
+    {
+      "name": "AI Fraud Detection",
+      "description": "Tools for AI Fraud Detection",
+      "tools": [
+        {
+          "name": "59 FingerprintJS",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Fraud Detection",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "59. AI Fraud Detection/59 FingerprintJS - free.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        },
+        {
+          "name": "59 Signifyd",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Fraud Detection",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "59. AI Fraud Detection/59 Signifyd - paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 55
+    },
+    {
+      "name": "AI Email Assistant",
+      "description": "Tools for AI Email Assistant",
+      "tools": [
+        {
+          "name": "ShortWave",
+          "pricing": "Freemium",
+          "description": "AI-powered email client that helps you write, summarize, and manage emails efficiently.",
+          "steps": [
+            "Visit shortwave.ai",
+            "Sign in with your Google account",
+            "Connect your Gmail inbox",
+            "Use AI to draft, summarize, and reply to emails"
+          ],
+          "video_tutorial": "6. AI Email Assistant/ShortWave - Free.mp4",
+          "youtube_links": [],
+          "free_limits": "Free tier available with core AI email features",
+          "ranking": 8.2,
+          "last_verified": "2025-01-13",
+          "has_tutorial_video": true
+        }
+      ],
+      "id": 56
+    },
+    {
+      "name": "AI Personal Stylists",
+      "description": "Tools for AI Personal Stylists",
+      "tools": [
+        {
+          "name": "60 Acloset",
+          "pricing": "Unknown",
+          "description": "AI tool for AI Personal Stylists",
+          "steps": [
+            "Check the tutorial for setup instructions"
+          ],
+          "video_tutorial": "60. AI Personal Stylists/60 Acloset - free.mp4",
+          "youtube_links": [],
+          "free_limits": "Check tutorial for details",
+          "ranking": 7.0,
+          "last_verified": "2025-12-26T01:20:33.210020"
+        }
+      ],
+      "id": 57
+    },
+    {
+      "name": "AI Video Generation",
+      "description": "Tools for AI Video Generation",
+      "tools": [
+        {
+          "name": "Hailuo AI",
+          "pricing": "Freemium",
+          "description": "AI video generation tool that creates high-quality short videos from text prompts or images.",
+          "steps": [
+            "Visit hailuoai.video",
+            "Create a free account",
+            "Enter your video prompt or upload an image",
+            "Generate and download your video"
+          ],
+          "video_tutorial": "7. AI Video Generation/Hailuo AI - Free.mp4",
+          "youtube_links": [],
+          "free_limits": "Free tier with limited video generations per day",
+          "ranking": 8.9,
+          "last_verified": "2025-01-15",
+          "has_tutorial_video": true
+        }
+      ],
+      "id": 58
+    },
+    {
+      "name": "AI Presentation Maker",
+      "description": "Tools for AI Presentation Maker",
+      "tools": [
+        {
+          "name": "Gamma AI",
+          "pricing": "Freemium",
+          "description": "AI-powered presentation tool that generates professional slides from text, documents, or prompts in seconds.",
+          "steps": [
+            "Visit gamma.app",
+            "Create a free account",
+            "Enter a topic or paste content",
+            "Let AI generate your presentation and customize as needed"
+          ],
+          "video_tutorial": "8. AI Presentation Maker/Gamma AI - Free.mp4",
+          "youtube_links": [],
+          "free_limits": "Free plan with AI-generated presentations; Plus plan for advanced features",
+          "ranking": 9.1,
+          "last_verified": "2025-01-14",
+          "has_tutorial_video": true
+        }
+      ],
+      "id": 59
+    },
+    {
+      "name": "AI Grammar And Proofreading",
+      "description": "Tools for AI Grammar And Proofreading",
+      "tools": [
+        {
+          "name": "Grammarly",
+          "pricing": "Paid",
+          "description": "Industry-leading AI grammar checker that corrects writing errors, improves clarity, and enhances tone across all platforms.",
+          "steps": [
+            "Visit grammarly.com",
+            "Create a free or premium account",
+            "Install the browser extension or desktop app",
+            "Start writing and get real-time corrections"
+          ],
+          "video_tutorial": "9. AI Grammar And Proofreading/Grammarly - Paid.mp4",
+          "youtube_links": [],
+          "free_limits": "Free tier with basic grammar and spelling corrections",
+          "ranking": 9.3,
+          "last_verified": "2025-01-13",
+          "has_tutorial_video": true
+        }
+      ],
+      "id": 60
+    }
+  ]
+}

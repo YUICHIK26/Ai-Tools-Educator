@@ -1,0 +1,25 @@
+Here's an example of a UPS tracking code:
+
+**Tracking Code Format:**
+1Z XXX XXX XX XXXX XXX X
+
+**Breakdown:**
+
+* 1Z: Carrier Code (UPS)
+* XXX XXX: Shipper Number
+* XX: Service Code (e.g., 01 for UPS Ground, 02 for UPS 3-Day Select)
+* XXXX: Package Number
+* XXX: Check Digit
+* X: Modifier (optional)
+
+**Example UPS Tracking Code:**
+1Z 123 456 07 1234 567 8
+
+**How to Use:**
+
+1. Go to the UPS website ([www.ups.com](http://www.ups.com))
+2. Click on "Track"
+3. Enter the tracking code in the format above
+4. Click "Track" to view the package status and details
+
+Note: The actual tracking code may vary depending on the specific shipment and carrier. This is just an example format.

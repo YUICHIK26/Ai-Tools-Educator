@@ -1,0 +1,31 @@
+Here's a sample Excel sheet content:
+
+**Employee Salary Sheet**
+
+| Employee ID | Name | Department | Salary | Bonus |
+| --- | --- | --- | --- | --- |
+| 101 | John Smith | Sales | 50000 | 5000 |
+| 102 | Jane Doe | Marketing | 60000 | 6000 |
+| 103 | Bob Johnson | IT | 70000 | 7000 |
+| 104 | Maria Rodriguez | HR | 40000 | 4000 |
+| 105 | David Lee | Finance | 80000 | 8000 |
+
+**Formulas:**
+
+* Total Salary: =SUM(B2:B6)
+* Total Bonus: =SUM(E2:E6)
+* Average Salary: =AVERAGE(C2:C6)
+
+**Charts:**
+
+* Bar chart to display the salary of each employee
+* Pie chart to display the department-wise distribution of employees
+
+**Functions:**
+
+* IF function to check if the employee is eligible for a bonus (e.g. =IF(D2>50000,"Yes","No"))
+* VLOOKUP function to retrieve the department name based on the employee ID (e.g. =VLOOKUP(A2,Department!A:B,2,FALSE))
+
+Let me know if you want me to add anything else to this Excel sheet content! 
+
+Would you like me to create a new Excel sheet with specific columns, formulas, and data? Or would you like me to modify this existing one?
