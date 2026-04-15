@@ -2,6 +2,17 @@
 
 A comprehensive AI-powered educational platform that teaches users about various AI tools across 60 different categories, from writing and coding to design and content creation.
 
+## 👥 Contributors & Partners
+
+This project is developed and maintained by:
+
+- **[YUICHIK26](https://github.com/YUICHIK26)** - Project Creator & Lead Developer
+- **[KashifAnsarix7](https://github.com/KashifAnsarix7)** - Partner, Developer & Designer
+
+We welcome contributions from the community! If you'd like to contribute, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
+
+---
+
 ## 🌟 Features
 
 ### Core Features
@@ -265,7 +276,8 @@ For issues, questions, or suggestions:
 - Check the documentation in the `/Tutorial Videos` folder
 - Visit the About page in the web application
 
-## 🙏 Acknowledgments
+
+## �🙏 Acknowledgments
 
 Special thanks to all the AI tool creators and API providers that make this platform possible:
 - Cohere for AI decision-making
