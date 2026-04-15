@@ -13,7 +13,17 @@ We welcome contributions from the community! If you'd like to contribute, please
 
 ---
 
-## 🌟 Features
+## � Demo Video
+
+Watch the AI Tools Educator in action! This demo showcases the main features and capabilities of the platform.
+
+[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-Play%20Video-red?style=for-the-badge)](Ai%20Tools%20Educator.mp4)
+
+**Or download and watch:** [Ai Tools Educator.mp4](Ai%20Tools%20Educator.mp4)
+
+---
+
+## �🌟 Features
 
 ### Core Features
 - **Interactive AI Chatbot** - Conversational AI that recommends tools and provides guidance
@@ -189,13 +199,6 @@ Access the application at `http://localhost:5000`
 - "Recommend an AI design tool"
 - "Tell me about AI chatbots"
 
-## � Demo Video
-
-Watch the AI Tools Educator in action! This demo showcases the main features and capabilities of the platform.
-
-[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-Play%20Video-red?style=for-the-badge)](Ai%20Tools%20Educator.mp4)
-
-**Or download and watch:** [Ai Tools Educator.mp4](Ai%20Tools%20Educator.mp4)
 
 ## �🏗️ Project Structure
 
